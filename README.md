@@ -1,7 +1,7 @@
-# 0x00. Vagrant
+#Zero Day
 
-This directory contains exercises/projects completed for learning about Vagrant.
+This repository contains vagrant exercise assigned on day 0 at School.
 
-| File | Description |
-| ---- |:-----------:|
-| 0-hello_ubuntu | Write the result of `uname` in VM |
+| Directory | Description |
+| --------- |:-----------:|
+| 0x00-vagrant | Setup Ubuntu VM using Vagrant. |
